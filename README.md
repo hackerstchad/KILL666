@@ -1,12 +1,4 @@
-# ╔═══════════════════════════════════════════════════════════════╗
-# ║  ██╗  ██╗██╗██╗     ██╗      ██╗███████╗                      ║
-# ║  ██║ ██╔╝██║██║     ██║      ██║██╔════╝                      ║
-# ║  █████╔╝ ██║██║     ██║      ██║███████╗                      ║
-# ║  ██╔═██╗ ██║██║     ██║      ██║╚════██║                      ║
-# ║  ██║  ██╗██║███████╗███████╗ ██║███████║                      ║
-# ║  ╚═╝  ╚═╝╚═╝╚══════╝╚══════╝ ╚═╝╚══════╝                      ║
-# ║              KILL666 — PRIVATE DARK CHAT v666                 ║
-# ╚═══════════════════════════════════════════════════════════════╝
+KILL666
 
 > **Créé par :** `hackers_tchad`  
 > **Version :** `v666.0 - TCHAD DARK EDITION`  
@@ -14,23 +6,21 @@
 
 ---
 
-## ⚡ DESCRIPTION
+##  DESCRIPTION
 
 **KILL666** est une interface Tkinter/CustomTkinter avancée de communication privée :
 
-- 💬 **Chat texte en direct** visible par tous les utilisateurs connectés
-- 🎥 **Vidéo en direct** par caméra avec effets hacker (green/red matrix, scanline, glitch)
-- 🎙️ **Vocal en direct** entre utilisateurs (push-to-talk ou continu)
-- 📁 **Transfert de fichiers** chiffrés AES-256-GCM
-- 👤 **Profil utilisateur** (pseudo, avatar, statut, bio) lors de la connexion
-- 🔒 **Réseau privé** : connexion via IP/port personnalisé
-- 🌐 **Mode hôte/client** : l'un héberge, les autres rejoignent
-- 🎨 **Thème hacker** : noir, vert néon, rouge, terminal style
-- ⚙️ **1000+ fonctionnalités simulées** : panel admin, logs, encryption, ban/kick
+-  **Chat texte en direct** visible par tous les utilisateurs connectés
+-  **Vidéo en direct** par caméra avec effets hacker (green/red matrix, scanline, glitch)
+-  **Vocal en direct** entre utilisateurs (push-to-talk ou continu)
+-  **Transfert de fichiers** chiffrés AES-256-GCM
+-  **Profil utilisateur** (pseudo, avatar, statut, bio) lors de la connexion
+-  **Réseau privé** : connexion via IP/port personnalisé
+-  **Mode hôte/client** : l'un héberge, les autres rejoignent
 
 ---
 
-## 📦 INSTALLATION
+##  INSTALLATION
 
 ```bash
 git clone https://github.com/hackers_tchad/kill666.git
@@ -92,12 +82,6 @@ python kill666.py
 - Authentification par mot de passe de salon optionnelle
 
 ---
-
-## ⚠️ ÉTHIQUE
-
-> **KILL666** est un outil de communication privée à usage éducatif.
-> Utilisez-le uniquement sur des réseaux que vous contrôlez et avec des utilisateurs consentants.
-> `hackers_tchad` décline toute responsabilité en cas d'usage illégal.
 
 ---
 

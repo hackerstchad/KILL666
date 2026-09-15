@@ -74,7 +74,7 @@ python kill666.py
 
 ---
 
-## 🛡️ SÉCURITÉ
+##  SÉCURITÉ
 
 - Chiffrement AES-256-GCM pour les messages privés et fichiers
 - Réseau privé uniquement (pas de serveur public)
@@ -85,7 +85,7 @@ python kill666.py
 
 ---
 
-## 🛠️ Développeur
+##  Développeur
 
 ```text
 hackers_tchad
@@ -94,6 +94,7 @@ Tchad · Cyber · Dark Comms
 
 ---
 
-## 📜 Licence
+##  Licence
 
-MIT — Usage éducatif et privé uniquement.
+MIT — CYBER - CRIME
+

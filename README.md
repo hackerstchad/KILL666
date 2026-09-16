@@ -40,7 +40,7 @@ sudo apt-get install portaudio19-dev python3-pyaudio
 
 ---
 
-## 🚀 UTILISATION
+##  UTILISATION
 
 ### Lancer KILL666
 ```bash

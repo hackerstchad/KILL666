@@ -1,4 +1,5 @@
 KILL666
+<img width="1000" height="1000" alt="m1000x1000" src="https://github.com/user-attachments/assets/b4cb39cc-7311-4e2c-88e9-e410c39b6765" />
 
 > **Créé par :** `hackers_tchad`  
 > **Version :** `v666.0 - TCHAD DARK EDITION`  
@@ -11,7 +12,7 @@ KILL666
 **KILL666** est une interface Tkinter/CustomTkinter avancée de communication privée :
 
 -  **Chat texte en direct** visible par tous les utilisateurs connectés
--  **Vidéo en direct** par caméra avec effets hacker (green/red matrix, scanline, glitch)
+-  **Vidéo en direct**
 -  **Vocal en direct** entre utilisateurs (push-to-talk ou continu)
 -  **Transfert de fichiers** chiffrés AES-256-GCM
 -  **Profil utilisateur** (pseudo, avatar, statut, bio) lors de la connexion
@@ -23,7 +24,7 @@ KILL666
 ##  INSTALLATION
 
 ```bash
-git clone https://github.com/hackers_tchad/kill666.git
+git clone https://github.com/hackerstchad/KILL666.git
 cd kill666
 pip install -r requirements.txt
 ```
@@ -60,7 +61,7 @@ python kill666.py
 
 ---
 
-## 🎮 Contrôles
+##  Contrôles
 
 | Action | Description |
 |--------|-------------|

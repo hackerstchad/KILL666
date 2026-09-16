@@ -22,6 +22,8 @@ linkme httpsearch46mg7cmamildlqwwzar6mpkcxkj7u3jmaoa6i6rjjucpzh7cad.onionwebs=ha
 
 ---
 
+linkme httpsearch46mg7cmamildlqwwzar6mpkcxkj7u3jmaoa6i6rjjucpzh7cad.onionwebs=hackerstchad+ai&scraper=yandex
+
 ##  INSTALLATION
 
 ```bash

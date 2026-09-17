@@ -1,5 +1,8 @@
 KILL666
-linkme httpsearch46mg7cmamildlqwwzar6mpkcxkj7u3jmaoa6i6rjjucpzh7cad.onionwebs=hackerstchad+ai&scraper=yandex
+
+<img width="1248" height="832" alt="OIG1" src="https://github.com/user-attachments/assets/7425976a-029c-4231-9475-50cac1ce5a4c" />
+
+
 <img width="1000" height="1000" alt="m1000x1000" src="https://github.com/user-attachments/assets/b4cb39cc-7311-4e2c-88e9-e410c39b6765" />
 
 > **Créé par :** `hackers_tchad`  
@@ -95,7 +98,7 @@ python kill666.py
 hackers_tchad
 Tchad · Cyber · Dark Comms
 ```
-
+linkme http//search46mg7cmamildlqwwzar6mpkcxkj7u3jmaoa6i6rjjucpzh7cad.onionwebs=hackerstchad+ai&scraper=yandex
 ---
 
 ##  Licence

@@ -2,9 +2,6 @@ KILL666
 
 <img width="1248" height="832" alt="OIG1" src="https://github.com/user-attachments/assets/7425976a-029c-4231-9475-50cac1ce5a4c" />
 
-
-<img width="1000" height="1000" alt="m1000x1000" src="https://github.com/user-attachments/assets/b4cb39cc-7311-4e2c-88e9-e410c39b6765" />
-
 > **Créé par :** `hackers_tchad`  
 > **Version :** `v666.0 - TCHAD DARK EDITION`  
 > **Type :** Chat privé LAN / réseau privé avec vidéo, voix, transfert de fichiers
